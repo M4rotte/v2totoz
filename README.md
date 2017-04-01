@@ -4,7 +4,7 @@ Convert a video file to an animated GIF, scaled to the desired size.
 
 ## Usage
 
-    v2totoz.sh inputfile [size] [name]
+v2totoz.sh inputfile [size] [name]
 
 Default size is 140 (width).
 
