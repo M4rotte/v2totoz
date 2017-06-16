@@ -8,7 +8,7 @@ Convert a video file to an animated GIF, scaled to the desired size.
 
 Default size is 140 (width).
 
-## Exemple
+## Example
 
     $ ./v2totoz.sh ../../Documents/C8P8kU-UIAEUsNA.mp4 100 plop
     Input:	../../Documents/C8P8kU-UIAEUsNA.mp4
